@@ -1,1 +1,1 @@
-En este proyecto vamos a practicar todo lo aprendido en HTML creando una pagina
+En este proyecto vamos a practicar todo lo aprendido en HTML creando una pagina basica con diferentes recetas
